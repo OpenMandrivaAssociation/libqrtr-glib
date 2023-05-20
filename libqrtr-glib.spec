@@ -58,7 +58,7 @@ Libqrtr-glib is a glib-based library to use and manage the QRTR (Qualcomm IPC Ro
 %{_libdir}/libqrtr-glib.so.%{major}*
     
 %files -n %{girname}
-%{_libdir}/lgirepository-1.0/Qrtr-1.0.typelib
+%{_libdir}/girepository-1.0/Qrtr-1.0.typelib
 %{_datadir}/gir-1.0/Qrtr-1.0.gir
 
 %files -n %{devname}
