@@ -9,7 +9,7 @@ Version:	1.2.2
 Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
-Url:		http://cgit.freedesktop.org/libqrtr-glib
+Url:		https://cgit.freedesktop.org/libqrtr-glib
 Source0:	https://gitlab.freedesktop.org/mobile-broadband/libqrtr-glib/-/archive/%{version}/libqrtr-glib-%{version}.tar.bz2
 
 BuildRequires:	meson
