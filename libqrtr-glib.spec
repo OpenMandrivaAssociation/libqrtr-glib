@@ -18,6 +18,7 @@ BuildRequires:	pkgconfig(gio-2.0)
 BuildRequires:	pkgconfig(glib-2.0) >= 2.32
 BuildRequires:	pkgconfig(gobject-2.0)
 BuildRequires:	gtk-doc
+BuildRequires:  gi-docgen
 
 %description
 Libqrtr-glib is a glib-based library to use and manage the QRTR (Qualcomm IPC Router) bus.
