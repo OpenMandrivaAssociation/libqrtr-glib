@@ -5,8 +5,8 @@
 
 Summary:	Libqrtr-glib is a glib-based library to use and manage the QRTR (Qualcomm IPC Router) bus.
 Name:		libqrtr-glib
-Version:	1.2.2
-Release:	2
+Version:	1.4.0
+Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
 Url:		https://cgit.freedesktop.org/libqrtr-glib
